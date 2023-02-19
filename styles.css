@@ -1,0 +1,209 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: sans serif;
+    margin-top: 40px;
+    height: 100vh;
+    width: 100%;
+    background-color: pink;
+}
+    *{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.regform{
+    width: 800px;
+    color: blue;
+    margin: auto;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-radius: 15px 15px 0 0;
+}
+.main{
+    border-color: blue;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    
+}
+.center {
+    color: rgb(221, 96, 117);
+    background-position: center;
+    background-image: url(https://wallpaperaccess.com/full/2075759.jpg);
+    margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
+form{
+    padding: 10px;
+}
+
+#name{
+    width: 100%;
+    height: 100px;
+}
+.name{
+    color: rgb(83, 23, 221);
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.Firstname{
+    color: rgb(83, 23, 221); 
+    font-size: 32px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.firstname{
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+
+}
+.Lastname{
+    color:rgb(83, 23, 221); 
+    font-size: 32px;
+    margin-left: 10px;
+}
+.last{
+    color:rgb(83, 23, 221); 
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.Email{
+   margin-left: 10px;
+   margin-top: 8px;
+   width: 125px;
+   color: rgb(83, 23, 221);
+   font-size: 32px;
+   font-weight: 700;
+}
+.mail{
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 22px;
+}
+.pass{
+    margin-top: 800px ;
+    margin-left: 25px;
+    width: 125px;
+    color:rgb(83, 23, 221);
+    font-size: 22px;
+    font-weight: 700px;
+}
+.password{
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 22px;
+}
+
+.num{
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 125px;
+    color: rgb(83, 23, 221);
+    font-size: 18px;
+    font-weight: 700px;
+}
+.number{
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 22px;
+}
+.gender{
+    margin-top: 7px;
+    margin-left: 25px;
+    width: 125px;
+    color: rgb(83, 23, 221);
+    font-size: 22px;
+    font-weight: 700px;
+}
+.male1{
+    color: rgb(83, 23, 221);
+    position: relative;
+    left: 240px;
+    top: -20px;
+    border-radius: 6px;
+    height: 30px;
+    padding: 5px 22px;
+    margin-left: 20px;
+}
+.male{
+    color:rgb(83, 23, 221); 
+    font-size: 22px;
+    position: relative;
+    left: 100px;
+    top: -30px;
+    border-radius: 6px;
+    height: 30px0;
+    padding: 0 22px;
+    margin-left: 20px;
+}
+
+.female{
+    color:rgb(83, 23, 221); 
+    font-size: 22px;
+    position: relative;
+    left: 100px;
+    top: -30px;
+    border-radius: 6px;
+    height: 30px0;
+    padding: 0 22px;
+    margin-left: 20px;
+}
+.female1{
+    color: rgb(83, 23, 221);
+    position: relative;
+    left: 240px;
+    top: -20px;
+    border-radius: 6px;
+    height: 30px;
+    padding: 5px 22px;
+    margin-left: 20px;
+}
+
+.city{
+    color:rgb(83, 23, 221);
+    font-size: 20px;
+
+}
+.btn{
+    background-color:rgb(97, 31, 253);
+    padding: 10px 10px 10px 10px;
+    margin: 20px;
+    font-size: 22px;
+    border-radius: 30px;
+    border-color:rgb(97, 31, 253); 
+}
+.mid-city{
+    position: relative;
+    left: 200px;
+    top: -23px;
+    border-radius: 6px;
+    height: 30px;
+    padding: 0 22px;
+}
